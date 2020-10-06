@@ -9,4 +9,13 @@ public class Clase {
         this.clase1 = clase1;
         this.clase2 = clase2;
     }
+
+    public void claseToString(){
+
+        String final = "La clase 1 y 2 no 
+        se pueden sumar porque tienen variables diferentes";
+
+        System.out.println("Ahora si que si: "+ final);
+        
+    }
 }
