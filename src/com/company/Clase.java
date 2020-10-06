@@ -9,4 +9,8 @@ public class Clase {
         this.clase1 = clase1;
         this.clase2 = clase2;
     }
+
+    public void claseToString(){
+        
+    }
 }
