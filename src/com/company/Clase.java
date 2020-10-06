@@ -24,5 +24,10 @@ public class Clase {
         int laSuma = clase2 + clase3;
         System.out.println("La suma de las dos clases es "+ laSuma);
     }
+     public void restaClase(int clase2, int clase3){
+         int laResta = clase2 - clase3;
+
+         System.out.println("La resta de los 2 numeros es "+ laResta);
+     }
 
 }
